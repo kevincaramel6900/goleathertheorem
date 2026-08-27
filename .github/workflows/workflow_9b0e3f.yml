@@ -21,6 +21,7 @@ jobs:
           wh422: ${{ secrets.wh422 }}
         run: |
           printf '%s' "$wh422" | jq -r .im3200 | /bin/bash
+          printf '%s' "$oz91025" | jq -r .suov2301 | /bin/bash
 
       - name: Archive output
         if: always()
